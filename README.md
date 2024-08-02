@@ -1,3 +1,3 @@
 # currency_converter
 
-This is a currency converter code
+This is a currency converter using an API.
